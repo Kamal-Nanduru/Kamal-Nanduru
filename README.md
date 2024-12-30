@@ -24,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamal-nanduru&show_icons=true&locale=en&layout=compact" alt="kamal-nanduru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamal-nanduru&show_icons=true&locale=en" alt="kamal-nanduru" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varaprasad-nanduru&" alt="varaprasad-nanduru" /></p>
